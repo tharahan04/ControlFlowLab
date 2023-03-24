@@ -15,7 +15,7 @@ public class ClothesWeather {
             System.out.println("Short sleeve and shorts");
         }
         if(weather.toLowerCase().equals("sunny") && temp < 8) {
-            System.out.println("Sunglasses and thin jacket");
+            System.out.println("Sunglasses and speedo");
         }
 
 
